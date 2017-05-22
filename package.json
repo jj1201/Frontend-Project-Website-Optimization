@@ -1,0 +1,41 @@
+{
+  "name": "frontend-nanodegree-mobile-portfolio-master",
+  "version": "1.0.0",
+  "description": "Udacity Website Optimization",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-image-optimization": "^0.1.3",
+    "jpegtran-bin": "^3.2.0",
+    "optipng-bin": "^4.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.3.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.4",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj1201/Frontend-Project-Website-Optimization.git"
+  },
+  "keywords": [
+    "frontend",
+    "website-optimization"
+  ],
+  "author": "Jiajia Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj1201/Frontend-Project-Website-Optimization/issues"
+  },
+  "homepage": "https://github.com/jj1201/Frontend-Project-Website-Optimization#readme"
+}
