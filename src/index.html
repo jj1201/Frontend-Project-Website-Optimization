@@ -6,7 +6,6 @@
     <meta name="description" content=" FILL ME IN ">
     <meta name="author" content=" FILL ME IN ">
     <!-- Hmm, what is the impact of web fonts on speed? Measure it... -->
-    <script async src="http://fonts.googleapis.com/css?family=Open+Sans:400,700"></script>
     <title>Cameron Pittman: Portfolio</title>
 
     <!-- <link href="css/style.css" rel="stylesheet"> -->
@@ -66,6 +65,9 @@
     <link href="css/print.css" rel="stylesheet" media="print">
 
     <script>
+      WebFontConfig = {
+        google: { families: [ 'Open+Sans:400,700:latin' ] }
+      };
       (function(w,g){w['GoogleAnalyticsObject']=g;
       w[g]=w[g]||function(){(w[g].q=w[g].q||[]).push(arguments)};w[g].l=1*new Date();})(window,'ga');
 
