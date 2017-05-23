@@ -21,6 +21,7 @@ Make index.html reach 90 or higher score for Mobile and Desktop at PageSpeed Ins
 ###### Target
 - Make views/pizza.html reaches 60 frames per second rate when scrolling
 - make time to resize pizzas less than 5ms.
+
 See the finished website:[Pizza](https://jj1201.github.io/Frontend-Project-Website-Optimization/dist/views/pizza.html)
 ###### Optimization
 1. Use timeline, spot two functions(*changePizzaSizes()*, *updatePositions()*) that have forced synchromous layout in them.
