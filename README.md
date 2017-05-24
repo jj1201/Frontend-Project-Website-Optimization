@@ -14,7 +14,7 @@ Make index.html reach 90 or higher score for Mobile and Desktop at PageSpeed Ins
 4. Using gulp, minimize the html, css, scripts and images files.
 
 ###### After above optimazions, the result is:
-- Time to generate last 10 frames when scrolling : 0.53ms
+- Mobile: 96/100 
 - Desktop: 97/100
 
 #### Part 2: Getting Rid of Jank
