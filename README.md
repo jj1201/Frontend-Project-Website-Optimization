@@ -24,7 +24,7 @@ Make index.html reach 90 or higher score for Mobile and Desktop at PageSpeed Ins
 
 See the finished website:[Pizza](https://jj1201.github.io/Frontend-Project-Website-Optimization/dist/views/pizza.html)
 ###### Optimization
-1. Use timeline, spot two functions(*changePizzaSizes()*, *updatePositions()*) that have forced synchromous layout in them.
+1. Use timeline, spot two functions(*changePizzaSizes()*, *updatePositions()*) that have forced synchronous layout in them.
 2. In changePizzaSizes(), get rid of the time consuming for loop by only caculating the newwidth once.
 3. In updatePositions(), move the causing layout line out of the loop.
 
