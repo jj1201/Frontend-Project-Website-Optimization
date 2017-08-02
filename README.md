@@ -1,5 +1,5 @@
-## Website Performance Optimization
-
+# Website Performance Optimization
+### About the project
 A website optimization project provided by [Udacity](https://www.udacity.com). The task is to optimize a given website so that it reaches a target score at PageSpeed Insights and have frames per second rate 60 fps or higher.
 
 See the finished website:[Frontend-Project-Website-Optimization](https://jj1201.github.io/Frontend-Project-Website-Optimization/dist/)
