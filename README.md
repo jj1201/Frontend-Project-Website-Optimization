@@ -4,7 +4,7 @@ A website optimization project provided by [Udacity](https://www.udacity.com). T
 
 See the finished website:[Frontend-Project-Website-Optimization](https://jj1201.github.io/Frontend-Project-Website-Optimization/dist/)
 
-#### Part 1: PageSpeed Score
+### Part 1: PageSpeed Score
 ###### Target
 Make index.html reach 90 or higher score for Mobile and Desktop at PageSpeed Insights.
 ###### Optimization
@@ -17,7 +17,7 @@ Make index.html reach 90 or higher score for Mobile and Desktop at PageSpeed Ins
 - Mobile: 96/100 
 - Desktop: 97/100
 
-#### Part 2: Getting Rid of Jank
+### Part 2: Getting Rid of Jank
 ###### Target
 - Make views/pizza.html reaches 60 frames per second rate when scrolling
 - make time to resize pizzas less than 5ms.
